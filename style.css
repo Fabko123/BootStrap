@@ -1,0 +1,46 @@
+.zdj-jpg{
+    grid-column: 1/span 2;
+    grid-row: 1;
+    background-color: white;
+    height: 25%;
+    text-align: center;
+}
+.klocek{
+    background-color: red;
+    text-align: center;
+    
+}
+
+.zdj2{
+    background-image: url(./zdj/151251251251251251.jpg);
+    height: 600px;
+}
+
+.container{
+    padding: 1px;
+    
+}
+
+.bg-c-m{
+    background-color: red;
+}
+
+.btn-group{
+    text-align: left;
+    background-color:white;
+}
+
+
+body{
+    background-color: beige;
+}
+.p-ff{
+    background-color:white;
+}
+
+.klocek2{
+    background-color: red;
+    text-align: center;
+    width: 22500px;
+    height: 50px;
+}
