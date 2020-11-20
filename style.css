@@ -41,6 +41,8 @@ body{
 .klocek2{
     background-color: red;
     text-align: center;
-    width: 22500px;
-    height: 50px;
+}
+
+.list-group-item{
+    background-color: orange;
 }
